@@ -42,9 +42,9 @@ Whenever I met one of them who seemed to me at all clear-sighted, I tried the ex
 Then I would never talk to that person about boa constrictors, or primeval forests, or stars. I would bring myself down to his level. I would talk to him about bridge, and golf, and politics, and neckties. And the grown-up would be greatly pleased to have met such a sensible man.`,
       footnotes: 
       [
-        { id:`1`, note: fig('lp1.png', 'Boa swallowing prey')},
-        { id:`2`, note: fig('lp2.png', 'Hat-like drawing of a Boa swallowing an Elephant')},
-        { id:`3`, note: fig('lp3.png', 'Boa swallowing Elephant in more detail')}
+        { id:`1`, note: fig('/lp1.png', 'Boa swallowing prey')},
+        { id:`2`, note: fig('/lp2.png', 'Hat-like drawing of a Boa swallowing an Elephant')},
+        { id:`3`, note: fig('/lp3.png', 'Boa swallowing Elephant in more detail')}
       ]
     },
 
