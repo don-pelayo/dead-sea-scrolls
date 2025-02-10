@@ -8,7 +8,7 @@
   ],
   "routes": [    
     {
-      "src": "/public/(.*)",
+      "src": ".vercel/output/static/(.*)",
       "dest": "/public/$1"
     },
     {
