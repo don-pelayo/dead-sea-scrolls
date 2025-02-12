@@ -7,7 +7,7 @@ const BACKEND = process.env.HOST
 //const style = `style="max-width:90%;display:block;margin:auto;"`
 
 function fig (image, legend) {
-  return `<figure> <img src="${BACKEND}${image}"  alt="${legend}"> <figcaption><em>"${legend}"</em></figcaption> </figure>` 
+  return `<figure> <img src="${image}"  alt="${legend}"> <figcaption><em>"${legend}"</em></figcaption> </figure>` 
   //return `<figure> <img ${style} src="${BACKEND}${image}"  alt="${legend}"> <figcaption style="text-align:center;padding-top:1em"><em>"${legend}"</em></figcaption> </figure>` 
 }
 
